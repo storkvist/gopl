@@ -1,4 +1,4 @@
-package popcount
+package main
 
 var pc [256]byte
 
